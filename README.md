@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Teladoc Health**
 
-- 👨‍💻 All of my projects are available at [julianpineiro.vercel.app](julianpineiro.vercel.app)
+- 👨‍💻 All of my projects are available at [julianpineiro.vercel.app](https://julianpineiro.vercel.app)
 
 - 📫 How to reach me **julipineiro@gmail.com**
 
