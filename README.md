@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [julianpineiro.vercel.app](https://julianpineiro.vercel.app)
 
-- 📫 How to reach me **julipineiro@gmail.com**
+- 📫 Reach me at **julipineiro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
